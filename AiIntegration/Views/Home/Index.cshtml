@@ -1,0 +1,15 @@
+﻿﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<form class="form-floating mb-3" asp-action="Index" method="post">
+    <input type="text" class="form-control mb-2" id="floatingInputValue" placeholder="Ask your question" name="question">
+    <label for="floatingInputValue">The AI knows (mostly) everything—except when it's spinning tall tales.</label>
+    <button type="submit" class="btn btn-primary">Ask!</button>
+</form>
+@if (ViewBag.Answer != null)
+{
+    <div class="alert alert-primary" role="alert">
+        @ViewBag.Answer
+    </div>
+}
