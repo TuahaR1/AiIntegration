@@ -34,4 +34,4 @@ The project showcases a clean and modular architecture, making it easy to custom
 ### Steps  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/meta-llama-api-in
+   git clone https://https://github.com/TuahaR1/AiIntegration
