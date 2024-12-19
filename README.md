@@ -2,7 +2,7 @@
 # Meta Llama API Integration in ASP.NET Core  
 
 ![Meta Llama API](https://img.shields.io/badge/Meta%20Llama-Integration-blue)  
-![.NET Version](https://img.shields.io/badge/.NET%20Core-6.0-purple)  
+![.NET Version](https://img.shields.io/badge/.NET%20Core-8-0-purple)  
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  
 
