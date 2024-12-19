@@ -18,7 +18,7 @@ The project showcases a clean and modular architecture, making it easy to custom
 
 ## 🚀 Features  
 - **Seamless API Integration:** Connect to the Meta Llama API effortlessly.  
-- **Modern ASP.NET Core Framework:** Built using ASP.NET Core 6.0.  
+- **Modern ASP.NET Core Framework:** Built using ASP.NET Core 8.0.  
 - **Extensible Design:** Includes services and middleware for easy adaptation.  
 - **Practical Examples:** Demonstrates real-world scenarios for NLP.  
 
